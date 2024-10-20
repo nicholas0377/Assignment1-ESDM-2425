@@ -4,7 +4,7 @@
 ## GROUP MEMBERS
 |No. | Member Name | Matric No|
 |--|--|--|
-|1. | Wong Kai Shian Nicholas |A22EC0292 |
+|1. | Wong Khai Shian Nicholas |A22EC0292 |
 |2. | Wong Qiao Ying | A22EC0118 |
 
 ##MILESTONES
